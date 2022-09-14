@@ -1,0 +1,26 @@
+{
+  "name": "zoomer-glass",
+  "version": "1.0.2",
+  "description": "实现图片放大效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglang-77/zoomer-glass.git"
+  },
+  "keywords": [
+    "放大镜"
+  ],
+  "author": "zl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanglang-77/zoomer-glass/issues"
+  },
+  "homepage": "https://github.com/zhanglang-77/zoomer-glass#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vue": "^3.2.39"
+  }
+}

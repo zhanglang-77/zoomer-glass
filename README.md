@@ -18,11 +18,11 @@ npm i zoomer-glass
 
 ````vue
 <script setup>
-import Zoomer from 'yu-zoomer';
+import ZoomerGlass from 'zoomer-glass';
 
 </script>
 <template>
-  <zoomer
+  <ZoomerGlass
     class="goods-detail-zoomer"
     img-src="xxxxxxx"
   />

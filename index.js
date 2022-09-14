@@ -1,2 +1,2 @@
-import ZoomGlass from '../src/index.vue';
+import ZoomGlass from './src/index.vue';
 export default ZoomGlass;
